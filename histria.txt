@@ -3,3 +3,5 @@ Se añade el titulo "cristian estudia git"
 SE añade subtitulo " cristian repasa git"
 
 Se agrega el cargo que es "asesor SST"
+
+Su trabajo es "asesor SST"
