@@ -4,4 +4,4 @@ SE añade subtitulo " cristian repasa git"
 
 Se agrega el cargo que es "asesor SST"
 
-Su trabajo es "asesor SST"
+El estudia para "developer"
